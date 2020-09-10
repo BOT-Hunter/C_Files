@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598689219 source:/home/mishraji/Desktop/cfiles/MemoryLeaks/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
